@@ -5,6 +5,5 @@ def square_array(array)
   do
     number = number * number
     squared.push(number)
-  end
+  
 end
-
