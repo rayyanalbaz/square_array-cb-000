@@ -8,4 +8,3 @@ def square_array(array)
   end
 end
   return squared
-end
