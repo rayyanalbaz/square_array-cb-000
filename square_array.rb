@@ -5,5 +5,5 @@ def square_array(array)
     s = number**2
     squared.push(s)
   end
-
+return squared
 end
