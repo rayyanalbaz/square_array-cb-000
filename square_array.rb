@@ -3,9 +3,8 @@ def square_array(array)
   squared = []
   array.each |number|
   do
-    number = number * number
-    squared.push(number)
-
-end
-end
+    s = number * number
+    squared.push(s)
+  end
+  
 end
