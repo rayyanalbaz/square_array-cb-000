@@ -7,4 +7,4 @@ def square_array(array)
     squared.push(number)
   end
 end
-  return squared
+
